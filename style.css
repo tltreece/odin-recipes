@@ -1,0 +1,21 @@
+#header {
+    background-color: black;
+    font-size: 36px;
+    color:cadetblue;
+    text-align:center;
+    font-family: "Verdana", sans-serif;
+}
+
+div {
+    font-size:24px;
+    background-color: gray;
+    font-family:"Verdana", sans-serif;
+    color:green;
+    font-weight: bold;
+    
+}
+
+.dishpic {
+    height:auto;
+    width: 300px;
+}
