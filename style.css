@@ -19,3 +19,20 @@ div {
     height:auto;
     width: 300px;
 }
+
+.list{
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.listhead{
+    font-size: 24px;
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+    background-color: yellow;
+}
+
+.desc {
+    font-size: 28px;
+    font-family: "Brush Script", sans-serif;
+}
